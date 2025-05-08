@@ -18,23 +18,4 @@ Automate your **Cookie Clicker** game with this Python Selenium bot. It clicks t
 
 2. **Download ChromeDriver** from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads).
 
-## Run
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/cookie-clicker-bot.git
-    ```
-
-2. Navigate to the project folder:
-    ```bash
-    cd cookie-clicker-bot
-    ```
-
-3. Run the bot:
-    ```bash
-    python cookie_clicker_bot.py
-    ```
-
-## License
-
-MIT License.
